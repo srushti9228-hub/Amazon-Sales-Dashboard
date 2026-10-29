@@ -55,8 +55,7 @@ The goal is to turn sales data into clear, decision-ready visual insights.
 ## 🖥️ Dashboard Pages
 
 ### 1. 🏠 Sales Homepage — Performance Overview
-
-![Amazon Sales Dashboard Homepage](images/dashboard-homepage.png)
+![Dashboard Page](<Dashboard Image/Dashboard Page.png>)
 
 **Includes**
 - KPI cards: Total Profit, Total Revenue, Average Shipment Days, Units Sold, and Total Orders
@@ -72,7 +71,7 @@ The goal is to turn sales data into clear, decision-ready visual insights.
 
 ### 2. 📊 Executive Page — Channel & Order Analysis
 
-![Amazon Sales Executive Dashboard](images/executive-page.png)
+![Executive Page](<Dashboard Image/Executive Page.png>)
 
 **Includes**
 - Sales Channel Analysis: Online vs. Offline
@@ -88,8 +87,7 @@ The goal is to turn sales data into clear, decision-ready visual insights.
 
 ### 3. 🛍️ Product Insights — Product & Shipping Trends
 
-![Amazon Sales Product Insights Dashboard](images/product-insights.png)
-
+![Product Insight Page](<Dashboard Image/Product Insight Page.png>)
 **Includes**
 - Top 5 Items by Profit
 - Top 5 Items by Orders
